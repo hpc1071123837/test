@@ -1,0 +1,21 @@
+个人开发者注册小程序：
+mp.weixin.qq.com--》立即注册--》小程序
+
+账号：18001036457@163.com   hongmeigui520...
+
+微信开发者工具的下载
+https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html
+
+
+AppID(小程序ID)：
+wx72eb544ab2540bb8
+
+IconFont:
+国内最著名的图标搜索及管理平台，200万个图标下载
+http://www.iconfont.cn/
+
+IconMoon
+强悍的WEB字体图标制造器，能生成icon图或字体
+https://icomoon.io/app/#/select
+
+git:hpc1071123837  hongmeigui520...     1071123837@qq.com
